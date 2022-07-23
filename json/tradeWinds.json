@@ -1,0 +1,304 @@
+[
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 103079.07,
+				"rotation": 90,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 811473.438,
+				"worldY": 3521253.75
+			},
+			{
+				"controlPointsDistance": 138458.172,
+				"rotation": 20.2655334,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 862092,
+				"worldY": 4050968.25
+			},
+			{
+				"controlPointsDistance": 177973.328,
+				"rotation": -323.1301,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 853482.1,
+				"worldY": 4623852.5
+			},
+			{
+				"controlPointsDistance": 0,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 1545502.63,
+				"worldY": 5482182
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 4451901,
+				"worldY": 5503488.5
+			}
+		],
+		"PathId": 4,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 113701.258,
+				"rotation": 215.8648,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 6788456,
+				"worldY": 5023427.5
+			},
+			{
+				"controlPointsDistance": 131497.578,
+				"rotation": -209.744888,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 5865978.5,
+				"worldY": 4928921
+			},
+			{
+				"controlPointsDistance": 164782.016,
+				"rotation": -198.077972,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 4496597,
+				"worldY": 6307917.5
+			},
+			{
+				"controlPointsDistance": 262132.625,
+				"rotation": -176.185928,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 1144652.5,
+				"worldY": 6126270.5
+			}
+		],
+		"PathId": 5,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 89681.89,
+				"rotation": -108.434952,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 6231990,
+				"worldY": 3890309.75
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -465.200134,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 6132679.5,
+				"worldY": 3168694.75
+			},
+			{
+				"controlPointsDistance": 73607.75,
+				"rotation": -83.6598053,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 5730866.5,
+				"worldY": 2612427.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -90,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 5839391,
+				"worldY": 1675570.88
+			},
+			{
+				"controlPointsDistance": 96864.875,
+				"rotation": -126.326828,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 5053064,
+				"worldY": 934976.3
+			}
+		],
+		"PathId": 6,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 79.50852,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 3919619.75,
+				"worldY": 271827.75
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 85.03026,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 3999070.75,
+				"worldY": 1577138.88
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 48.1798248,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 4035914,
+				"worldY": 2567936.5
+			},
+			{
+				"controlPointsDistance": 187004.641,
+				"rotation": 52.042038,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 5015583,
+				"worldY": 3178145
+			}
+		],
+		"PathId": 7,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 71847.03,
+				"rotation": 358.892059,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 291046.531,
+				"worldY": 2169006.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -42.3369942,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 1833749,
+				"worldY": 2093241.63
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -36.8698959,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 2333353.5,
+				"worldY": 1485276.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 3519171.75,
+				"worldY": 1206001.75
+			}
+		],
+		"PathId": 8,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 189557.047,
+				"rotation": -174.559662,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 6459765.5,
+				"worldY": 4394879
+			},
+			{
+				"controlPointsDistance": 125424.141,
+				"rotation": -176.83963,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 3572347,
+				"worldY": 4342182
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 211.328674,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 2055116.75,
+				"worldY": 4277705
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -101.309937,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 2086193.63,
+				"worldY": 2267039.25
+			}
+		],
+		"PathId": 10,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 863372,
+				"worldY": 260294.688
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 2032693.25,
+				"worldY": 181644.922
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 2,
+				"width": 50000,
+				"worldX": 3677750,
+				"worldY": 165147.281
+			}
+		],
+		"PathId": 11,
+		"PathName": "",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	}
+]

@@ -1,0 +1,144 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 21600,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 30.9637566,
+				"worldX": 3010112.25,
+				"worldY": 3985459.25
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": -14.4207726,
+				"worldX": 3919141.25,
+				"worldY": 4038239.5
+			},
+			{
+				"controlPointsDistance": 82532.58,
+				"rotation": -93.96792,
+				"worldX": 3946853.25,
+				"worldY": 3062656
+			},
+			{
+				"controlPointsDistance": 71959.25,
+				"rotation": 110.149879,
+				"worldX": 3015242.25,
+				"worldY": 3089086
+			}
+		],
+		"PathId": 1,
+		"PathName": "GhostShip",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 21600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 137979.547,
+				"rotation": 492.636,
+				"worldX": 5447747.5,
+				"worldY": 5406907.5
+			},
+			{
+				"controlPointsDistance": 78747.2656,
+				"rotation": 210.781311,
+				"worldX": 1530205.5,
+				"worldY": 5445428
+			},
+			{
+				"controlPointsDistance": 158362.625,
+				"rotation": -82.42147,
+				"worldX": 1560880.63,
+				"worldY": 3829880
+			},
+			{
+				"controlPointsDistance": 332313.063,
+				"rotation": 22.959938,
+				"worldX": 1695352.5,
+				"worldY": 1176367
+			},
+			{
+				"controlPointsDistance": 191483.922,
+				"rotation": 52.7651672,
+				"worldX": 5463930.5,
+				"worldY": 1263668.13
+			}
+		],
+		"PathId": 2,
+		"PathName": "NpcTrader1",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 21600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 136792.266,
+				"worldY": 372741.563
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 155695.625,
+				"worldY": 3520450
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 1238519,
+				"worldY": 4092136.75
+			},
+			{
+				"controlPointsDistance": 0,
+				"rotation": 0,
+				"worldX": 1245564.88,
+				"worldY": 1172844.63
+			}
+		],
+		"PathId": 3,
+		"PathName": "NpcTrader2",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 21600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 6814408.5,
+				"worldY": 701432.063
+			},
+			{
+				"controlPointsDistance": 0,
+				"rotation": 0,
+				"worldX": 5742635.5,
+				"worldY": 683732
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 5752088,
+				"worldY": 6348926.5
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 6774366,
+				"worldY": 6323780.5
+			}
+		],
+		"PathId": 4,
+		"PathName": "NpcTrader3",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]
